@@ -1,3 +1,5 @@
+// Given an interger age as input 
+// Print "Eligible to Vote" if the person is eligible to vote~
 
 class Question1 {
 	public static void main(String[]args){
